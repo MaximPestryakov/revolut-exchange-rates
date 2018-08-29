@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "497327817324",
+    "firebase_url": "https://revolut-bfb92.firebaseio.com",
+    "project_id": "revolut-bfb92",
+    "storage_bucket": "revolut-bfb92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497327817324:android:2a4ef5c8c59efdba",
+        "android_client_info": {
+          "package_name": "com.github.maximpestryakov.revolut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497327817324-mglrho1aso0lphh6iuvju1equlc5obmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZO_tOOVnROHiD_WHT7w7vcfNR7IbIruI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

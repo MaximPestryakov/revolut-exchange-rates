@@ -1,0 +1,24 @@
+ext {
+    android_plugin_version = '3.2.0-rc02'
+    google_services_plugin_version = '4.0.1'
+    fabric_plugin_version = '1.25.4'
+
+    kotlin_version = '1.2.61'
+    appcompat_version = '1.0.0-rc01'
+    constraintlayout_version = '1.1.2'
+    google_material_version = '1.0.0-rc01'
+    android_ktx_version = '1.0.0-rc01'
+    rxjava_version = '2.2.0'
+    rxandroid_version = '2.1.0'
+    rxkotlin_version = '2.2.0'
+    rxrelay_version = '2.0.0'
+    retrofit_version = '2.4.0'
+    moshi_version = '1.6.0'
+    koin_version = '0.9.3'
+    room_version = '2.0.0-rc01'
+    lifecycle_version = "2.0.0-rc01"
+
+    leakcanary_version = '1.6.1'
+    crashlytics_version = '2.9.5'
+    timber_version = '4.7.1'
+}

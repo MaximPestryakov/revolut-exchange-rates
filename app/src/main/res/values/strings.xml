@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Revolut</string>
+    <string name="exchange_rates_title">Exchange Rates</string>
+    <string name="exchange_rates_title_with_date">Exchange Rates (%s)</string>
+    <string name="exchange_rates_amount_hint">0</string>
+
+    <string name="no_connection">No connection</string>
+</resources>
